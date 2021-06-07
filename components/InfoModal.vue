@@ -14,7 +14,7 @@
           </v-btn>
         </v-card-actions>
       </v-app-bar>
-      <v-card flat class="pa-md-6">
+      <v-card flat class="pa-md-4">
         <v-card-text class="pb-0">v.{{ modalData.description }}</v-card-text>
         <v-card-title class="py-0 d-flex justify-space-between">
           <v-chip small>
